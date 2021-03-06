@@ -1,5 +1,10 @@
 const help = (prefix) => {
-	return `> *Sticker Commands* <
+	return `
+
+Criador: JTX
+Whats: wa.me/558194687636
+
+> *Sticker Commands* <
 command : *${prefix}sticker* or *${prefix}stiker*
 desc : convert image/gif/video to sticker
 usage : reply image/gif/video, or send image/gif/video with caption\n
